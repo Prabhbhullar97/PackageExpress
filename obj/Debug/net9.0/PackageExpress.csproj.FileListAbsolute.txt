@@ -1,0 +1,14 @@
+D:\HTml\PackageExpress\bin\Debug\net9.0\PackageExpress.exe
+D:\HTml\PackageExpress\bin\Debug\net9.0\PackageExpress.deps.json
+D:\HTml\PackageExpress\bin\Debug\net9.0\PackageExpress.runtimeconfig.json
+D:\HTml\PackageExpress\bin\Debug\net9.0\PackageExpress.dll
+D:\HTml\PackageExpress\bin\Debug\net9.0\PackageExpress.pdb
+D:\HTml\PackageExpress\obj\Debug\net9.0\PackageExpress.GeneratedMSBuildEditorConfig.editorconfig
+D:\HTml\PackageExpress\obj\Debug\net9.0\PackageExpress.AssemblyInfoInputs.cache
+D:\HTml\PackageExpress\obj\Debug\net9.0\PackageExpress.AssemblyInfo.cs
+D:\HTml\PackageExpress\obj\Debug\net9.0\PackageExpress.csproj.CoreCompileInputs.cache
+D:\HTml\PackageExpress\obj\Debug\net9.0\PackageExpress.dll
+D:\HTml\PackageExpress\obj\Debug\net9.0\refint\PackageExpress.dll
+D:\HTml\PackageExpress\obj\Debug\net9.0\PackageExpress.pdb
+D:\HTml\PackageExpress\obj\Debug\net9.0\PackageExpress.genruntimeconfig.cache
+D:\HTml\PackageExpress\obj\Debug\net9.0\ref\PackageExpress.dll
